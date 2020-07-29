@@ -1,0 +1,12 @@
+Good day, 
+
+My name is Kaamraan and I am a software developer with 3 years of experience in Python and Java. I would like to apply for the position of System Admin at Google, as advertised on your website. 
+
+I am a graduate of HyperionDev's 3-month Software Engineering Bootcamp, during which I received praise from mentors for my elegant solutions and excellent documentation. I also have experience with the Django web framework, React, and technologies such as Linux and Github.
+
+Currently I am focusing on learning more about IOT Development and Edge Computing.
+
+I look forward to hearing from you.
+
+Kind regards,
+Kaamraan Raboobee 
